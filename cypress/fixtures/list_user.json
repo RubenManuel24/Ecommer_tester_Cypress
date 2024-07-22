@@ -1,0 +1,17 @@
+[
+    {
+        "name": "standard_user"
+    },
+    {
+        "name": "problem_user"
+    },
+    {
+        "name": "performance_glitch_user"
+    },
+    {
+        "name": "error_user"
+    },
+    {
+        "name": "visual_user"
+    }
+]
